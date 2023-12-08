@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "811059321941",
+    "firebase_url": "https://grad-project-e5ef6-default-rtdb.firebaseio.com",
+    "project_id": "grad-project-e5ef6",
+    "storage_bucket": "grad-project-e5ef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811059321941:android:a1dbd1e9b7f010a58ac8dc",
+        "android_client_info": {
+          "package_name": "com.hashhire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811059321941-1qrueho3soceipp8hk1u5e4grpe507b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb1roYFqhE6FD0v5uanYlPqHKXYXEK3j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811059321941-1qrueho3soceipp8hk1u5e4grpe507b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+{
+  "unwantedRecommendations": [],
+  "editor.codeActionsOnSave": {
+    "source.addMissingImports": true
+  }
+}
